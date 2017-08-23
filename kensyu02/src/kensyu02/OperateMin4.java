@@ -1,7 +1,7 @@
 package kensyu02;
 
 import java.util.Scanner;
-import static math.ExtremeOperation.*;
+import static math.AggregateOperation.*;
 
 //4つの数値から最小値を求めるメソッドを作成し実行するクラス
 public class OperateMin4 {
